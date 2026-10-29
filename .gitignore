@@ -1,0 +1,7 @@
+/data/*.db
+/data/*.db-journal
+/data/*.xlsx
+/uploads/**
+!/uploads/.gitkeep
+.DS_Store
+Thumbs.db
