@@ -17,7 +17,7 @@ $open = setting('pendaftaran_buka', '1') === '1';
 <body class="is-public">
 <header class="pub-nav">
     <a class="brand" href="?page=beranda">
-        <span><h1>🏫</h1></span>
+        <span><img src="assets/logo.png" alt="Foto saya" width="50"></span>
         <div>
             <strong><?= e($schoolName) ?></strong>
             <small>PPDB</small>

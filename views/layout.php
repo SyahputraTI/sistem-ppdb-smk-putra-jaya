@@ -25,7 +25,7 @@ $nav = [
 <?php else: ?>
     <aside class="sidebar">
         <div class="brand">
-            <span><h1>🏫</h1></span>
+            <span><img src="assets/logo.png" alt="Foto saya" width="50"></span>
             <div>
                 <strong><?= e($schoolName) ?></strong>
                 <small>Admin PPDB</small>
